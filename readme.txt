@@ -1,7 +1,7 @@
 === WPSecureOps Brute Force Protect ===
 Contributors: WPSecureOps
 Donate link: http://wpsecureops.com/
-Tags: brute force, bruteforce, password, password brute force, password bruteforce, password admin, password wp-admin, brute force wp-admin, login password, login brute force, attack, bot, network, ban ip, brute force attack, brute force protection, brute force protection script, brute force protection tool, brute force protection plugin
+Tags: brute force, bruteforce, password, password brute force, password bruteforce, password admin, password wp-admin, brute force wp-admin, login password, login brute force, attack, bot, network, ban ip, brute force attack, brute force protection, brute force protection script, brute force protection tool, brute force protection plugin, admin protection, login protection, hack, ban hacker, admin security, secure login, login security, wordpress security, security plugin
 Requires at least: 3.4
 Tested up to: 4.1
 Stable tag: 1.0
