@@ -37,7 +37,9 @@ enter 4-5-6 characters from a very very hard to read images...
 
 == Screenshots ==
 
-1. This is how simple the configuration of this plugin is, but it will protect your site from tons of attacks every month!
+1. This is what will happen if a user gets busted by the plugin.
+
+2. This is how simple the configuration of this plugin is, but it will protect your site from tons of attacks every month!
 
 == Changelog ==
 
