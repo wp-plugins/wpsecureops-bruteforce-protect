@@ -4,7 +4,7 @@
 Plugin Name: WPSecureOps BruteForce Protect
 Plugin URI: http://wpsecureops.com/
 Description: The simplest yet free Brute Force plugin that will protect your WordPress site from any brute force password attacks.
-Version: 1.2
+Version: 1.3
 Author: WPSecureOps
 Author URI: http://wpsecureops.com/
 License: GPLv2 or later (http://www.gnu.org/licenses/gpl-2.0.html)
