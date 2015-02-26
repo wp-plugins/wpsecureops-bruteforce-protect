@@ -1,7 +1,7 @@
 <?PHP
 global $WPSecureOps;
 if (!isset($WPSecureOps)) {
-    $WPSecureOps = [];
+    $WPSecureOps = array();
 }
 
 // must be hardcoded, just in case that when installing the plugin the plugin
